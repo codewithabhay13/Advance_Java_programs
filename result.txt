@@ -1,0 +1,4 @@
+===== AI MOCK INTERVIEW RESULT =====
+Score: 0
+Percentage: 0.0%
+Grade: C
